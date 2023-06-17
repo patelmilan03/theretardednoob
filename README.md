@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @theretardednoob
 - 🌱 I’m currently learning DSA in Java
-- ✨ I'm also learning flutter android appdev
+- ✨ I'm also learning Android App Development using Flutter
 
 <!---
 theretardednoob/theretardednoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
